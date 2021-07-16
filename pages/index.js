@@ -13,4 +13,6 @@ function Botao () {
 function Botao2 () {
     return <button>Clique aqui 2</button>
 }
+
+
 export default Home;
