@@ -2,6 +2,12 @@ function Home () {
     return <div>
             <h2>Home 2</h2>
             <Botao/>
+            <Botao/>
+            <Botao/>
+            <Botao/>
+            <Botao/>
+            <Botao/>
+            <Botao/>
             <Botao2/>
             </div>
 }
